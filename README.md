@@ -1,10 +1,6 @@
 
 # Face Tracking
 
-## Overview
-
-This repository provides a tutorial for implementing real-time face tracking using OpenCV and Python. The tutorial covers setting up the environment, understanding the code, and running the face tracking application.
-
 ## Features
 
 - Real-time face detection and tracking using Haar cascades and CSRT trackers.
